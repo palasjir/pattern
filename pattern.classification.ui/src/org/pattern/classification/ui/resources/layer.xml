@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Classificator">          
+            <file name="org-pattern-classification-action-ExportClassificatorAction.instance">
+                <attr name="displayName" stringvalue="Export"/>
+                <attr name="instanceCreate" methodvalue="org.openide.awt.Actions.context"/>
+                <attr name="type" stringvalue="org.pattern.data.Classificator"/>
+                <attr name="delegate" methodvalue="org.openide.awt.Actions.inject"/>
+                <attr name="injectable" stringvalue="org.pattern.classification.action.ExportClassificatorAction"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr name="noIconInMenu" boolvalue="false"/>
+            </file>
+        </folder>
+        
+    </folder>
+</filesystem>

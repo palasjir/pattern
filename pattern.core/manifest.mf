@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.pattern
+OpenIDE-Module-Install: org/pattern/Installer.class
+OpenIDE-Module-Layer: org/pattern/resources/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/pattern/resources/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.0
+

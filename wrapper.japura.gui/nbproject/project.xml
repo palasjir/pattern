@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>org.pattern.japura.gui</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <public-packages>
+                <package>org.japura.gui</package>
+                <package>org.japura.gui.calendar</package>
+                <package>org.japura.gui.calendar.components</package>
+                <package>org.japura.gui.dialogs</package>
+                <package>org.japura.gui.dnd</package>
+                <package>org.japura.gui.event</package>
+                <package>org.japura.gui.i18n</package>
+                <package>org.japura.gui.modal</package>
+                <package>org.japura.gui.model</package>
+                <package>org.japura.gui.renderer</package>
+                <package>org.japura.gui.util</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/japura-gui-7.3.0.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/japura-gui-7.3.0.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/japura-gui-7.3.0-javadoc.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/japura-gui-7.3.0-javadoc.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

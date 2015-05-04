@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.pattern.opencv
+OpenIDE-Module-Install: org/pattern/opencv/Installer.class
+OpenIDE-Module-Localizing-Bundle: org/pattern/opencv/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
