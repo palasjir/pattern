@@ -27,7 +27,6 @@ nb-configuration.xml
 
 # Not exclude
 !opencv-249.jar
-!opencv-249.jar
 !japura-gui-7.3.0.jar
 !gson-2.3.1.jar
 !bio-formats.jar
