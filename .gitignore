@@ -26,14 +26,14 @@ nb-configuration.xml
 *.ear
 
 # Not exclude
-!**/opencv-249.jar
-!**/opencv-249.jar
-!**/japura-gui-7.3.0.jar
-!**/gson-2.3.1.jar
-!**/bio-formats.jar
-!**/bioformats_package.jar
-!**/loci_plugins.jar
-!**/loci-common.jar
-!**/ome-xml.jar
-!**/scifio.jar
-!**/slf4j-api-1.7.5.jar
+!opencv-249.jar
+!opencv-249.jar
+!japura-gui-7.3.0.jar
+!gson-2.3.1.jar
+!bio-formats.jar
+!bioformats_package.jar
+!loci_plugins.jar
+!loci-common.jar
+!ome-xml.jar
+!scifio.jar
+!slf4j-api-1.7.5.jar
